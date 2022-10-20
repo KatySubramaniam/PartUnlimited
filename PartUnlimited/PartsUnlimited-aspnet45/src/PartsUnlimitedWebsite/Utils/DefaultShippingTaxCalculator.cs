@@ -17,7 +17,7 @@ namespace PartsUnlimited.Utils
 				subTotal = items.Sum(x => x.Count * x.Product.Price);
 				itemsCount = items.Sum(x => x.Count);
 				shipping = CalculateShipping(itemsCount);
-				tax = CalculateTax(subTotal + shipping, postalCode);
+				tax = PartUnlimited.Shared.TaxService.CalculateTax(subTotal + shipping, postalCode);
 				total = subTotal + shipping + tax;
 			}
 

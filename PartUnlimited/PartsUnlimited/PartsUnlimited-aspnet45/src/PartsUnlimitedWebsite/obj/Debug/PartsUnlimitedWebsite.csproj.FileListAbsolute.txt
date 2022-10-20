@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\KatySubramaniam\PartUnlimited\PartUnlimited\PartsUnlimited\PartsUnlimited-aspnet45\src\PartsUnlimitedWebsite\obj\Debug\PartsUnlimitedWebsite.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KatySubramaniam\PartUnlimited\PartUnlimited\PartsUnlimited\PartsUnlimited-aspnet45\src\PartsUnlimitedWebsite\obj\Debug\PartsUnlimitedWebsite.csproj.CoreCompileInputs.cache
